@@ -1,0 +1,1 @@
+/* This is a JS file to test github webhook and file download on update */
